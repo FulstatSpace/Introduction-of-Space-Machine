@@ -16,3 +16,9 @@ Types of rockets including:
 + Rocket-powered jet packs
 + Rapid escape systems such as ejection seats and launch escape systems
 + Space probes
+
+Types of aircraft including:
++ Lighter-than-air: Aerostat, Airship, Balloon (aircraft),...
++ Heavier-than-air: Fixed-wing plane, rotorcraft, Jet aircraft,... 
++ Civil aircraft: All nonmilitary planes are civil aircraft. These include private and business planes and commercial airliners.
+
